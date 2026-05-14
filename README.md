@@ -39,8 +39,9 @@ I am a results-driven Backend Developer specializing in building scalable, secur
 
 ---
 
-### 📊 GitHub Stats:
-![Rana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rana-algendi&show_icons=true&theme=radical)
+### 📊 My GitHub Stats:
+![Rana's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rana-algendi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rana-algendi&layout=compact&theme=radical)
 
 ---
 
