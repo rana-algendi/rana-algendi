@@ -46,7 +46,7 @@ I am a results-driven Backend Developer specializing in building scalable, secur
 ---
 
 ### 📫 Contact Me:
-- **LinkedIn:** [https://www.linkedin.com/in/rana-algendi-553929212/]
+- **LinkedIn:** [https://www.linkedin.com/in/rana-algendi/]
 - **Email:** [rana.elgendi2014@gmail.com]
 
 ---
