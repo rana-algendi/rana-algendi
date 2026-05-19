@@ -1,13 +1,13 @@
 # Hi there, I'm Rana Algendi 👋 
 
-### 🚀 Backend Developer | PHP & Laravel Specialist
+Backend Developer | Laravel & PHP
 
 I am a results-driven Backend Developer specializing in building scalable, secure, and efficient web architectures. While my core expertise lies in **PHP and Laravel**, I have a diverse technical background that includes Front-End development, Bio-informatics, and Python-based security tools.
 
 ---
 
 ### 🛠️ Core Expertise (The Backend):
-- **Frameworks:** Advanced proficiency in **Laravel** (MVC, Eloquent ORM, Middleware, API Design).
+- **Frameworks:** Strong foundation in **Laravel** (MVC, Eloquent ORM, Middleware, API Design).
 - **Languages:** Strong command of **PHP** and **MySQL** database management.
 - **Security:** Implementing robust authentication, authorization, and data validation systems.
 - **Tools:** Git, Composer, Artisan CLI, and RESTful API Integration.
