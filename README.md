@@ -14,11 +14,13 @@ I am a results-driven Backend Developer specializing in building scalable, secur
 
 ---
 
-### 💻 Featured Projects:
 - **[LEKTRA-AI-Healthcare](https://github.com/rana-algendi/LEKTRA-AI-Healthcare-System):** My Graduation Project. A high-level AI-integrated healthcare system focusing on complex backend logic and intelligent data processing.
 - **[TaskFlow-Manager](https://github.com/rana-algendi/TaskFlow-Manager):** A professional task management system built with Laravel, demonstrating secure authentication, middleware, and optimized database relations.
+- **[Roadtrip-Router-API](https://github.com/rana-algendi/roadtrip-router-api):** A custom multi-destination routing application implementing geo-spatial coordination logic, map distance estimations, and travel metrics.
 - **[Giftos-E-Shop](https://github.com/rana-algendi/Giftos_website):** A full-stack E-commerce platform featuring a complete Admin Dashboard, Category CRUD operations, and seamless UI/UX integration.
 - **[Genomics-Analytics](https://github.com/rana-algendi/BioSequence-Processor):** An interactive biological data processor using JavaScript logic to perform real-time genomic operations.
+
+---
 
 ---
 
