@@ -1,55 +1,78 @@
-# Hi there, I'm Rana Algendi 👋 
+# Hi there, I'm Rana Algendi 👋
 
-Backend Developer | Laravel & PHP
+### Backend Developer | Laravel & PHP
 
-I am a results-driven Backend Developer specializing in building scalable, secure, and efficient web architectures. While my core expertise lies in **PHP and Laravel**, I have a diverse technical background that includes Front-End development, Bio-informatics, and Python-based security tools.
+I'm a results-driven Backend Developer focused on building scalable, secure, and maintainable web applications. My core expertise is **PHP and Laravel**, backed by a diverse technical background that includes front-end development, bioinformatics, and Python-based security tools.
 
----
-
-### 🛠️ Core Expertise (The Backend):
-- **Frameworks:** Strong foundation in **Laravel** (MVC, Eloquent ORM, Middleware, API Design).
-- **Languages:** Strong command of **PHP** and **MySQL** database management.
-- **Security:** Implementing robust authentication, authorization, and data validation systems.
-- **Tools:** Git, Composer, Artisan CLI, and RESTful API Integration.
+> *"Building the logic that powers the web."*
 
 ---
 
-- **[LEKTRA-AI-Healthcare](https://github.com/rana-algendi/LEKTRA-AI-Healthcare-System):** My Graduation Project. A high-level AI-integrated healthcare system focusing on complex backend logic and intelligent data processing.
-- **[TaskFlow-Manager](https://github.com/rana-algendi/TaskFlow-Manager):** A professional task management system built with Laravel, demonstrating secure authentication, middleware, and optimized database relations.
-- **[Roadtrip-Router-API](https://github.com/rana-algendi/roadtrip-router-api):** A custom multi-destination routing application implementing geo-spatial coordination logic, map distance estimations, and travel metrics.
-- **[Giftos-E-Shop](https://github.com/rana-algendi/Giftos_website):** A full-stack E-commerce platform featuring a complete Admin Dashboard, Category CRUD operations, and seamless UI/UX integration.
-- **[Genomics-Analytics](https://github.com/rana-algendi/BioSequence-Processor):** An interactive biological data processor using JavaScript logic to perform real-time genomic operations.
+## 🛠️ Core Expertise
+
+- **Framework:** Laravel (MVC, Eloquent ORM, Middleware, REST API design)
+- **Languages & Databases:** PHP, MySQL
+- **Security:** Authentication, authorization, and data validation
+- **Tools:** Git, Composer, Artisan CLI, third-party API integration
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**LEKTRA-AI-Healthcare-System**](https://github.com/rana-algendi/LEKTRA-AI-Healthcare-System) | Graduation project: an AI-integrated healthcare system with complex backend logic and intelligent data processing. | PHP, Laravel, Python |
+| [**TaskFlow-Manager**](https://github.com/rana-algendi/TaskFlow-Manager) | Task management system with secure authentication, middleware, and optimized database relations. | PHP, Laravel, MySQL |
+| [**Roadtrip-Router-API**](https://github.com/rana-algendi/roadtrip-router-api) | Multi-destination routing app with geo-spatial coordination, map distance estimation, and travel metrics. | PHP, REST API |
+| [**Giftos-E-Shop**](https://github.com/rana-algendi/Giftos_website) | E-commerce storefront with an admin dashboard, category CRUD, and a polished UI/UX. | HTML, CSS, Bootstrap |
+
+### 🔬 Other Projects
+
+- [**Biometric-Security-System**](https://github.com/rana-algendi/Biometric-Security-System): Python-based biometric security tool.
+- [**BioSequence-Processor**](https://github.com/rana-algendi/BioSequence-Processor): Interactive genomic data processor with real-time operations (JavaScript).
+- [**Covid-Data-Pulse**](https://github.com/rana-algendi/Covid-Data-Pulse): COVID-19 data visualization dashboard.
+
 ---
 
-### 🌟 Versatile Skills:
-- **Full-Stack Capability:** Building responsive interfaces with **JavaScript** and **Bootstrap**.
-- **Specialized Logic:** Developing interactive tools for biological data analysis.
-- **Cross-Platform:** Experienced in **Python** for AI-integrated systems and biometric security.
+## 🔭 Currently Building
+
+**Multi-vendor Marketplace (Laravel)**: a production-style e-commerce platform, built to go deeper on backend engineering:
+
+- Role-based access (admin / vendor / customer)
+- Payment gateway integration (Paymob, Stripe) with webhooks
+- Queues, events, and notifications
+- Automated testing with Pest
+- Docker and CI/CD with GitHub Actions
 
 ---
 
-### 📊 Tech Stack & Tools:
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
+## 🌟 Versatile Skills
+
+- **Full-Stack Capability:** Responsive interfaces with JavaScript and Bootstrap
+- **Specialized Logic:** Interactive tools for biological data analysis
+- **Cross-Platform:** Python for AI-integrated systems and biometric security
+
+---
+
+## 📊 Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats:
+## 📈 GitHub Stats
+
 ![Rana's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rana-algendi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rana-algendi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rana-algendi&layout=compact&theme=radical)
 
 ---
 
-### 📫 Contact Me:
-- **LinkedIn:** [https://www.linkedin.com/in/rana-algendi/]
-- **Email:** [rana.elgendi2014@gmail.com]
+## 📫 Contact
 
----
-*"Building the logic that powers the web."*
+- **LinkedIn:** [linkedin.com/in/rana-algendi](https://www.linkedin.com/in/rana-algendi/)
+- **Email:** [rana.elgendi2014@gmail.com](mailto:rana.elgendi2014@gmail.com)
